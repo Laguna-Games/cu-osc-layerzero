@@ -10,3 +10,6 @@
 [submodule "lib/cu-osc-common"]
 	path = lib/cu-osc-common
 	url = https://github.com/Laguna-Games/cu-osc-common
+[submodule "lib/forge-std"]
+	path = lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
